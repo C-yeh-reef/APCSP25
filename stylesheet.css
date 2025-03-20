@@ -1,0 +1,31 @@
+  .heading {
+                padding: 60px;
+                font-size: 25px;
+                text-align: center;
+                background: #82B2DA;
+            }
+           
+ 
+            .section {
+              background-color: #A1D08F;
+              padding: 20px;
+              margin-top: 30px;
+              border-radius: 10px;  /* Chat GBT Rounds the corners */
+              box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);  /* Soft shadow effect */
+            }
+
+            .book {
+              background-color: #D7B5FB;
+              padding: 20px;
+              margin-top: 30px;
+              border-radius: 10px;  /* Chat GBT Rounds the corners */
+              box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);  /* Soft shadow effect */
+            }
+
+            img { /* Chat GBT*/
+              height: auto;
+              display: block; /* Centers image inside div */
+              margin: 10px auto;
+              border-radius: 10px;
+            }
+
